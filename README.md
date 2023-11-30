@@ -7,6 +7,7 @@ Do not repeat, dangerous, you can only use laser pointer - 1mW!
 
 Here I will post information for creating a laser device.
 
+
   ![alt tag](https://github.com/Ildaron/Laser_control/blob/master/Supplementary%20files/gen_view.JPG "general view")  
 
 -  [A warning!!](https://github.com/Ildaron/Laser_control#a-warning)
